@@ -1,0 +1,7 @@
+{
+  "name": "translate-api",
+  "type": "module",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^9.2.1"
+  }
+}
